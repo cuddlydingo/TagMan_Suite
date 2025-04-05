@@ -1,0 +1,5 @@
+VM_Name,Parent_vCenter_IP,Product,Vendor,Project Code,Product Charge ID,Tier
+test-vm-01,10.10.10.2,DB_Server,DBA_Team,123456,ABCDEF,Bronze
+test-vm-02,10.10.10.3,DB_Server,DBA_Team,123456,ABCDEF,Bronze
+test-vm-03,10.10.10.4,APP_Server,FrontEnd_Dev,123456,ABCDEF,Gold
+test-vm-04,10.10.10.5,APP_Server,FrontEnd_Dev,123456,ABCDEF,Gold
